@@ -1,2 +1,4 @@
-# bear_bees
- Práctica 3 - Programación Concurrente (UIB) - Curso 21/22
+# The Bear and the bees 
+ Classic concurrent problem codified with rabbitmq. 
+
+ Link to explanation: 
