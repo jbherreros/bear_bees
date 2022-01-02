@@ -108,7 +108,7 @@ func main() {
 	go func() {
 		for d := range msgs {
 			if string(d.Body) == "END" {
-				log.Printf("The wakeUp is broken. %s can no longer fill it up!", body)
+				log.Printf("The pot is broken. %s can no longer fill it up!", body)
 				log.Printf("%s says bye", body)
 				log.Printf("SIMULATION ENDS")
 				os.Exit(0)
