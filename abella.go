@@ -1,3 +1,4 @@
+// Juan Carlos Bujosa Herreros and José Luis García Herreros
 package main
 
 import (
